@@ -1,0 +1,79 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.color-1{
+    font-size: 60px;
+    color: green;
+}
+.color-2{
+    font-size: 60px;
+    color: red;
+}
+.color-3{
+    font-size: 60px;
+    color: greenyellow;
+}
+.eat{
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+.top{
+    background-image: url(images/shapes/top.jpg);
+    background-repeat: no-repeat;
+    
+}
+.model-1{
+    width: 50%;
+    margin: 10px;
+    padding: 2%;
+
+}
+.model-1 img{
+    width: 70%;
+}
+.menu{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(red, orangered);
+    padding: 10px 30px;
+    border-radius: 15%;
+    
+}
+
+.diet{
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+.model-2{
+    width: 50%;
+    margin: 10px;
+    padding: 2%;
+text-align: center;
+}
+.model-2 img{
+    width: 70%;
+}
+.color-4{
+    font-size: 30px;
+    color: greenyellow;
+}
+.middle{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    
+}
+.contact{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(red, orangered);
+    padding: 10px 30px;
+    border-radius: 15%;
+}
