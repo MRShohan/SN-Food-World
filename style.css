@@ -9,7 +9,7 @@ body{
   }
 
   .nav a {
-    float: left;
+    float: right;
     color: rgb(240, 230, 230);
     text-align: center;
     padding: 10px 15px;
@@ -137,6 +137,7 @@ button{
     width: 100%;
   }
 .likes{
+    justify-content: center;
     width: 100%;
     display: flex;
     background-color: rgb(226, 218, 211);
